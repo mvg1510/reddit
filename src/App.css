@@ -1,0 +1,9 @@
+.Controls {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.Controls button {
+    margin-right:20px;
+}

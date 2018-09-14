@@ -7,6 +7,14 @@
     color:gray;
 }
 
+.Reddit-Vote i {
+    cursor: pointer;
+}
+
+.Reddit-Vote i.selected {
+    color:darkslategray;
+}
+
 .Reddit-Vote-Counter {
     margin: 10px 0 10px 0;
     font-weight: 700;
