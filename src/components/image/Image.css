@@ -1,0 +1,25 @@
+    .Reddit-Image {
+    text-align: center;
+    width:100px;
+    height:100px;
+    padding-right:30px;
+    display:table-cell;
+    vertical-align:top;
+  }
+  
+  .Reddit-Image img {
+    vertical-align:top;
+    width:100%;
+    height:auto;
+  }
+
+  .NoImage {
+    text-align:center;
+    color: gray;
+    font-size:12px;
+    line-height: 19px;
+    height: 99px;
+    display: table-cell;
+    vertical-align: middle;
+    border:1px dashed lightgray;
+  }

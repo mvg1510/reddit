@@ -1,0 +1,13 @@
+.Reddit-Vote {
+    width: 70px;
+    height: 100px;
+    display:table-cell;
+    vertical-align:top;
+    text-align:center;
+    color:gray;
+}
+
+.Reddit-Vote-Counter {
+    margin: 10px 0 10px 0;
+    font-weight: 700;
+}
